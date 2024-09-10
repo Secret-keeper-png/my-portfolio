@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <h1><center>MY PORTFOLIO</center></h1><hr>
+</head>
+<body>
+    <img src="my image 1.jpg" align="right" height=190 width=200 1px>
+Name: Saba Mustafa<br>
+Father's name: Late Gulam Mustafa<br>
+Mothers's name: Sarifa Khanam<br>
+DOB: 02:07:2004<br>
+Address: BBSR<br>
+Mobile no: 7325915935<br>
+Nationality: Indian<br>
+Gender: Female<br><br>
+<b>Qualification:</b>
+<table style="width:50%"border=3>
+    <tr>
+        <th>Institution</th>
+        <th>Duration</th>
+        <th>Marks</th>
+    </tr>
+    <tr>
+        <th>Apex English Medium School</th>
+        <th>10th</th>
+        <th>69%</th>
+    </tr>
+    <tr></tr>
+        <th>Sudhanandha Vidyalaya</th>
+        <th>12th</th>
+        <th>75%</th>
+    </tr>
+    <tr></tr>
+        <th>ITER</th>
+        <th>BCA</th>
+        <th>Currently Pursuing</th>
+    </tr>
+    <br>
+    </table>
+    <h2>Strengths:</h2>
+        <ol>
+            <li> Creativity</li>
+            <li>Flexibility</li>
+            
+        </ol>
+        <h2>Weaknesses:</h2>
+        <ul>
+            <li>Public Speaking</li>
+            <li>Presentation Skills</li>
+        </ul>
+        <br>
+        <h2>Social Links:</h2>
+        <a href="https://www.linkedin.com/in/saba-mustafa-087592288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbRmtrBX9R9iazTHNJmLlKQ%3D%3D" target="_blank">linkedin profile</a>
+
+</body>
+</html>
+
